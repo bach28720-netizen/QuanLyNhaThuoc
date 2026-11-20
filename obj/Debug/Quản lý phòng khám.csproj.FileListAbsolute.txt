@@ -1,0 +1,149 @@
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản lý phòng khám.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmHome.resources
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmKhamBenh.resources
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmLogin.resources
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmMain.resources
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.Properties.Resources.resources
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản lý phòng khám.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản lý phòng khám.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmBaoCao.resources
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Quản lý phòng khám.exe.config
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Quản lý phòng khám.exe
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Quản lý phòng khám.pdb
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\stdole.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmHoaDon.resources
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Qu_n l_ .5B357F76.Up2Date
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản lý phòng khám.exe
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản lý phòng khám.pdb
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmThietBi.resources
+C:\Users\Admin\Documents\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmThuoc.resources
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Quản lý phòng khám.exe.config
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Quản lý phòng khám.exe
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Quản lý phòng khám.pdb
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\EnvDTE.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\stdole.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản lý phòng khám.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmBaoCao.resources
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmHoaDon.resources
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmHome.resources
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmKhamBenh.resources
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmLogin.resources
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmMain.resources
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmThietBi.resources
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.frmThuoc.resources
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản_lý_phòng_khám.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản lý phòng khám.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản lý phòng khám.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Qu_n l_ .5B357F76.Up2Date
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản lý phòng khám.exe
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\obj\Debug\Quản lý phòng khám.pdb
+C:\Users\Admin\source\repos\Bài cuối kì\Quản lý phòng khám\Quản lý phòng khám\bin\Debug\rptHoaDon.rdlc

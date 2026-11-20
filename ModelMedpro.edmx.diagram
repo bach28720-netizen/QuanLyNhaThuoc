@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="406b8181cf444842b645fd247e9d897e" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanLyPhongKhamMedproModel.Appointment" Width="1.5" PointX="5.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyPhongKhamMedproModel.Equipment" Width="1.5" PointX="5.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyPhongKhamMedproModel.Invoice" Width="1.5" PointX="8.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyPhongKhamMedproModel.Medicine" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyPhongKhamMedproModel.Patient" Width="1.5" PointX="3" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyPhongKhamMedproModel.Role" Width="1.5" PointX="0.75" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyPhongKhamMedproModel.Service" Width="1.5" PointX="5.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyPhongKhamMedproModel.User" Width="1.5" PointX="3" PointY="2.5" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyPhongKhamMedproModel.FK__Appointme__Docto__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyPhongKhamMedproModel.FK__Appointme__Patie__52593CB8" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyPhongKhamMedproModel.FK__Invoices__Patien__59FA5E80" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyPhongKhamMedproModel.FK__Invoices__UserID__5AEE82B9" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyPhongKhamMedproModel.FK__Users__RoleID__4D94879B" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
